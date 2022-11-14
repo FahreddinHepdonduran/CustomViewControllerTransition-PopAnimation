@@ -1,6 +1,6 @@
 ## Custom ViewController Transition - Pop Animation
 
-From Reywenderlich Pop Animation Tutorial - [link] [popAnimation]
+From Reywenderlich Pop Animation Tutorial - [link](popAnimation)
 
 [//]: #
 
